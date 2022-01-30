@@ -44,42 +44,42 @@ const ExperienceComponent = (props) => {
                 'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
             ]
         },
-        {
-            shortName: '75way',
-            name: '75way Technologies PVT. LTD.',
-            duration: 'Jan 2020 to Jul 2020',
-            type: 'Internship',
-            post: 'Software Intern',
-            details:[
-                'Write modern, performant, maintainable code for a diverse array of client and internal projects',
-                'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify',
-                'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
-            ]
-        },
-        {
-            shortName: 'Susurla Impex',
-            name: 'Susurla Impex Pvt Ltd',
-            duration: 'Aug 2019 to Sep 2019',
-            type: 'Internship',
-            post: 'Intern',
-            details:[
-                'Write modern, performant, maintainable code for a diverse array of client and internal projects',
-                'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify',
-                'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
-            ]
-        },
-        {
-            shortName: 'ReadyToGo',
-            name: 'ReadyToGo',
-            duration: 'Jun 2019 to Jul 2019',
-            type: 'Internship',
-            post: 'Summer Intern',
-            details:[
-                'Write modern, performant, maintainable code for a diverse array of client and internal projects',
-                'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify',
-                'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
-            ]
-        }
+        // {
+        //     shortName: '75way',
+        //     name: '75way Technologies PVT. LTD.',
+        //     duration: 'Jan 2020 to Jul 2020',
+        //     type: 'Internship',
+        //     post: 'Software Intern',
+        //     details:[
+        //         'Write modern, performant, maintainable code for a diverse array of client and internal projects',
+        //         'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify',
+        //         'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
+        //     ]
+        // },
+        // {
+        //     shortName: 'Susurla Impex',
+        //     name: 'Susurla Impex Pvt Ltd',
+        //     duration: 'Aug 2019 to Sep 2019',
+        //     type: 'Internship',
+        //     post: 'Intern',
+        //     details:[
+        //         'Write modern, performant, maintainable code for a diverse array of client and internal projects',
+        //         'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify',
+        //         'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
+        //     ]
+        // },
+        // {
+        //     shortName: 'ReadyToGo',
+        //     name: 'ReadyToGo',
+        //     duration: 'Jun 2019 to Jul 2019',
+        //     type: 'Internship',
+        //     post: 'Summer Intern',
+        //     details:[
+        //         'Write modern, performant, maintainable code for a diverse array of client and internal projects',
+        //         'Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify',
+        //         'Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis'
+        //     ]
+        // }
     ]
 
     return (
