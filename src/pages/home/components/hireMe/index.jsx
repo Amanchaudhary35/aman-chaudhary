@@ -34,7 +34,7 @@ const HireMeComponent = (props) => {
                         <a href = 'https://www.facebook.com/aman.balyan.14/' >
                             <FacebookOutlined />
                         </a>
-                        <a href = 'mailto:amanchaudhary5335@gmail.com' >
+                        <a href = 'mailto:amanchaudhary5335@gmail.com'>
                             <MailOutlined />
                         </a>
                     </div>
